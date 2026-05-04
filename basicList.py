@@ -19,8 +19,9 @@ Array.insert(1,"robin")
 Array.append(10)
 
 Array.pop()
-Array.remove(1,5)
+Array.remove(5)
 
 for i in range(len(Array)):
     print(Array[i])
+
 
